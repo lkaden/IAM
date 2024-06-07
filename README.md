@@ -1,7 +1,7 @@
 "# replication_climate_IAM" 
 
 
-Der vorliegende Code ist eine Replikationsstudie zu dem Papier "Optimal Climate Policy As If Transition Matters" von Emanuele Campiglio, Simon Dietz, Frank Venmans (2024) (https://www.cesifo.org/en/publications/2022/working-paper/optimal-climate-policy-if-transition matters#:~:text=The%20optimal%20transition%20to%20a,and%20economic%20and%20climatic%20shocks.)
+Der vorliegende Code ist eine Replikationsstudie zu dem Papier ["Optimal Climate Policy As If Transition Matters" von Emanuele Campiglio, Simon Dietz, Frank Venmans (2024)](https://www.cesifo.org/en/publications/2022/working-paper/optimal-climate-policy-if-transition matters#:~:text=The%20optimal%20transition%20to%20a,and%20economic%20and%20climatic%20shocks.)
 
 
 # Verbale Zusammenfassung des Modells
